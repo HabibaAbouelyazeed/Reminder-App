@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="32" height="32" transform="translate(2243 -337)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-2243 337)" clip-path="url(#clip-path)">
+    <g id="icons8-wall_clock" transform="translate(2239.679 -340.321)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="15.094" cy="15.094" r="15.094" transform="translate(4.226 4.226)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="15.094" cy="15.094" r="15.094" transform="translate(4.226 4.226)" fill="none" stroke="#444b54" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.811"/>
+      <path id="Path_2" data-name="Path 2" d="M24.664,24.664l-5.343-5.343,7.457-7.457" fill="none" stroke="#444b54" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.811"/>
+      <line id="Line_1" data-name="Line 1" x1="10.566" transform="translate(8.755 19.321)" fill="none" stroke="#ff5576" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.811"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="2.113" cy="2.113" r="2.113" transform="translate(17.208 17.208)" fill="#fff"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.113" cy="2.113" r="2.113" transform="translate(17.208 17.208)" fill="none" stroke="#444b54" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.811"/>
+    </g>
+  </g>
+</svg>

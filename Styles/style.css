@@ -1,0 +1,48 @@
+
+/* Aside Menu ==START */
+.H5-Aside-container{
+    width: 462px;
+    height: 100vh;
+    left: 0;
+    transition: all ease-in-out 200ms;
+}
+
+.H5-nav-container{
+    width: calc(100vh - 462px);
+    height: 176px;
+    background-color: chartreuse;
+}
+
+.H5-mainMenu-container{
+    width: calc(100vh - 462px);
+    height: calc(100vh - 176px);
+    background-color: cyan;
+}
+
+
+.H5-Aside-header{
+    height: 80px;
+}
+
+.H5-Aside-items{
+    height: 80px;
+}
+
+.H5-Aside-userPanel{
+    height: 120px;
+}
+/* Aside Menu ==END */
+
+
+/* Tasks Page ==START */
+.H5-create-new-task{
+    height: 120px;
+    border: 2px dashed #6E747C;
+}
+
+.H5-myTask{
+    height: 120px;
+    border: 2px solid #393D42;
+}
+
+/* Tasks Page ==END */

@@ -1,0 +1,13 @@
+.uM0-image-contain{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.u-H5-radius-50{
+    border-radius: 50%;
+}
+
+.u-H5-userPic-border{
+    border: 3px solid #63A64E;
+}

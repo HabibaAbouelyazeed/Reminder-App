@@ -1,0 +1,55 @@
+.i-H5-Aside-logo{
+    background-image: url(../icons/Logo.svg);
+}
+
+.i-H5-menu-icon{
+    background-image: url(../icons/menuIcon.svg);
+}
+
+
+.i-H5-prayer{
+    background-image: url(../icons/paryer.svg);
+}
+
+.i-H5-dashboard{
+    background-image: url(../icons/dashboard.svg);
+}
+
+.i-H5-task{
+    background-image: url(../icons/tasks.svg);
+}
+
+.i-H5-reminders{
+    background-image: url(../icons/reminders.svg);
+}
+
+.i-H5-myPocket{
+    background-image: url(../icons/myPocket.svg);
+}
+
+.i-H5-categories{
+    background-image: url(../icons/categories.svg);
+}
+
+.i-H5-archive{
+    background-image: url(../icons/archive.svg);
+}
+
+.i-H5-userPic{
+    background-image: url(../icons/user.jfif);
+}
+
+.i-H5-userLogOut{
+    background-image: url(../icons/userLogOut.svg);
+}
+
+
+.i-H5-size-a{
+    width: 32px;
+    height: 32px;
+}
+
+.i-H5-size-b{
+    width: 72px;
+    height: 72px;
+}
