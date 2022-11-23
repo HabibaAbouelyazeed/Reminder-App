@@ -1,4 +1,15 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+li{
+    list-style: none;
+}
+
+input{
+    outline: none;
+}
 /* Aside Menu ==START */
 .H5-Aside-container{
     width: 462px;
@@ -8,14 +19,16 @@
 }
 
 .H5-nav-container{
-    width: calc(100vh - 462px);
+    width: 100vh;
     height: 176px;
     background-color: chartreuse;
 }
 
 .H5-mainMenu-container{
-    width: calc(100vh - 462px);
-    height: calc(100vh - 176px);
+    width: 100vh;
+    /* height: calc(100vh - 176px); */
+    height: 100%;
+    padding: 10px;
     background-color: cyan;
 }
 
@@ -43,6 +56,11 @@
 .H5-myTask{
     height: 120px;
     border: 2px solid #393D42;
+}
+
+.H5-tools-bar{
+    right: 0px;
+    transition: ease-in-out all .2s;
 }
 
 /* Tasks Page ==END */

@@ -1,3 +1,4 @@
+/* Aside icons ==START */
 .i-H5-Aside-logo{
     background-image: url(../icons/Logo.svg);
 }
@@ -31,6 +32,10 @@
     background-image: url(../icons/categories.svg);
 }
 
+.i-H5-categories-blue{
+    background-image: url(../icons/categories-blue.svg);
+}
+
 .i-H5-archive{
     background-image: url(../icons/archive.svg);
 }
@@ -43,6 +48,35 @@
     background-image: url(../icons/userLogOut.svg);
 }
 
+/* Aside icons ==END */
+
+/* MainContainer icons ==START */
+.i-H5-newTask{
+    background-image: url(../icons/newTask.svg);
+}
+
+.i-H5-trashbin{
+    background-image: url(../icons/trashbin.svg);
+}
+
+.i-H5-colorbin{
+    background-image: url(../icons/colorbin.svg);
+}
+
+.i-H5-pin{
+    background-image: url(../icons/pin.svg);
+}
+
+.i-H5-moreOptions-white{
+    background-image: url(../icons/moreOptions-white.svg);
+}
+
+.i-H5-moreOptions-grey{
+    background-image: url(../icons/moreOptions-grey.svg);
+}
+
+
+/* MainContainer icons ==END */
 
 .i-H5-size-a{
     width: 32px;
@@ -52,4 +86,9 @@
 .i-H5-size-b{
     width: 72px;
     height: 72px;
+}
+
+.i-H5-size-c{
+    width: 48px;
+    height: 48px;
 }

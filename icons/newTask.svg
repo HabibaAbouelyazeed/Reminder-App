@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="32" height="32" transform="translate(4649)" fill="#63a64e" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(-4649)" opacity="0.5" clip-path="url(#clip-path)">
+    <path id="icons8-task_filled" d="M12.87.7a1.044,1.044,0,0,0-1.043,1.043V5.913A1.044,1.044,0,0,0,12.87,6.957h9.043a1.044,1.044,0,0,0,1.043-1.043V1.739A1.044,1.044,0,0,0,21.913.7ZM6.261,2.087A2.09,2.09,0,0,0,4.174,4.174V30.609A2.09,2.09,0,0,0,6.261,32.7H28.522a2.087,2.087,0,0,0,2.087-2.087V4.174a2.09,2.09,0,0,0-2.087-2.087H24.348V5.565H27.13V29.217H7.652V5.565h2.783V2.087Zm15.717,9.739a1.67,1.67,0,0,0-1.183.49l-.622.621,2.368,2.368.621-.622a1.673,1.673,0,0,0-1.183-2.857Zm-2.787,2.09L11.622,21.5l-.477,2.44a.349.349,0,0,0,.409.409l2.44-.478,7.568-7.584Z" transform="translate(4647.609 -0.696)" fill="#63a64e"/>
+  </g>
+</svg>

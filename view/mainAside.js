@@ -92,7 +92,7 @@ function mainAsideTemp() {
         
     template += `</ul>
                 <div class="H5-Aside-userPanel c-H5-bg-c4 d-flex align-items-center f-H5-32 c-H5-c2 mt-auto">
-                    <i class="${asideObj.user.userImage} i-H5-size-b uM0-image-contain u-H5-userPic-border u-H5-radius-50 d-inline-block mx-4"></i>
+                    <i class="${asideObj.user.userImage} ${asideObj.menuState? "i-H5-size-b mx-4" : "i-H5-size-c mx-3"} uM0-image-contain u-H5-userPic-border u-H5-radius-50 d-inline-block"></i>
                     ${asideObj.menuState? asideObj.user.userName : ""}
                     <i class="i-H5-userLogOut ${asideObj.menuState? "d-inline-block" : "d-none"} i-H5-size-a uM0-image-contain mx-4 ml-auto"></i>
                 </div>
